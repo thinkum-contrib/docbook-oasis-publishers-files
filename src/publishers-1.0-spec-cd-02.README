@@ -1,0 +1,19 @@
+The DocBook Publishers Schema Version 1.0
+Committee Draft
+01 Jun 2010
+
+This Version:
+http://docs.oasis-open.org/docbook/specs/publishers-1.0-spec-cd-02.html
+http://docs.oasis-open.org/docbook/specs/publishers-1.0-spec-cd-02.pdf
+http://docs.oasis-open.org/docbook/specs/publishers-1.0-spec-cd-02.xml
+Technical Committee:
+OASIS DocBook Technical Committee
+Chair:
+Norm Walsh
+Editor:
+Scott Hudson
+Declared XML Namespace:
+http://docbook.org/ns/docbook
+
+Description of changes since initial public review:
+DTD version generated per public review feedback. No change to spec required. 7 May 2010.
