@@ -1,16 +1,17 @@
 
 The following license terms are applicable for the files denoted
-src|doc/bibliography.xml
 src/dcmitype.rnc
 src/dcterms.rnc
-src|doc/publishers-1.0-spec-cd-02.README
-src|doc/publishers-1.0-spec-cs-01.html
-src|doc/publishers-1.0-spec-cs-01.pdf
-src|doc/publishers-1.0-spec-cs-01.README
-src|doc/publishers-1.0-spec-cs-01.xml
 src/publishers.dtd
 src/publishers.rnc
-src/publishers.xml
+doc/bibliography.xml
+doc/publishers-1.0-spec-cd-02.README
+doc/publishers-1.0-spec-cs-01.html
+doc/publishers-1.0-spec-cs-01.pdf
+doc/publishers-1.0-spec-cs-01.README
+doc/publishers-1.0-spec-cs-01.xml
+doc/publishers.xml
+
 
 ----------------------------------------------------------------------
 Copyright© OASIS® Open 2010. All Rights Reserved
